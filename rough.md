@@ -3,7 +3,7 @@ Accelerated Article Preview
 # Population flow drives spatio-temporal distribution of COVID-19 in China
 # 人口の移動が中国におけるCOVID-19の時間的空間的な分布を生み出した
 Jayson S. Jia, Xin Lu, Yun Yuan, Ge Xu, Jianmin Jia & Nicholas A. Christakis
----
+***
 This is a PDF file of a peer-reviewed paper that has been accepted for publication.
 これは査読され公開が認可されたPDFファイルである。
 
@@ -18,7 +18,7 @@ The text and figures will undergo copyediting and a proof review before the pape
 
 Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers apply.
 制作過程において内容に関わるエラーが発見される可能性があることを念頭に置くこと。全ての法的な免責事項が適用される。
----
+***
 Sudden, large-scale, and diffuse human migration can amplify localized outbreaks into widespread epidemics.
 突然に、世界的な、拡散する人間の移動が、地域的なアウトブレイクを広域のエピデミックに拡大した。
 
@@ -41,7 +41,7 @@ Fourth, we use this risk source model to statistically derive the geographic spr
 
 This approach can be used by policy-makers in any nation with available data to make rapid and accurate risk assessments and to plan allocation of limited resources ahead of ongoing outbreaks.
 この手法は、進行中のアウトブレイクにおける、上限のある資源を割り当てるための計画を作ることや、また素早く正確なリスク評価をすることに利用できるデータを得るために、いずれの国の政策決定者も利用することができる。
----
+***
 Tracking population flows is especially exigent in the context of China’s COVID-19 outbreak, which began in Wuhan (a prefecture-city in the province of Hubei) in the run-up to Chinese Lunar New Year eve on January 24, 2020 with its annual chunyun mass migration (which can involve as many as 3 billion trips).
 人口の移動を追跡することは、中国のCOID-19のアウトブレイクの文脈において特に重要である。COVID-19は、3billionもの旅行が行われる春節の大移動を伴う、中国における旧暦の新年である2020年1月24日に先立って、湖北省の武漢市に始まった。
 
